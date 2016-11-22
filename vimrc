@@ -1,5 +1,3 @@
-
-
 " Pathogen
 execute pathogen#infect()
 
